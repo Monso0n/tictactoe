@@ -1,5 +1,5 @@
 # tictactoe
-A quick tic tac toe program I wrote to practice my programming skillz in quarantine
+A quick tic tac toe program I wrote to practice my programming in quarantine
 
 This is a console based tictactoe game
 
