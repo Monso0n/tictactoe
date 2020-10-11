@@ -1,12 +1,11 @@
-# tictactoe
-A quick tic tac toe program I wrote to practice my programming in quarantine
+# Tic-Tac-Toe
 
-This is a console based tictactoe game
+![Tic Tac Toe](https://cdn.iconscout.com/icon/premium/png-256-thumb/tic-tac-toe-2528218-2117493.png)
 
-The game alternates between player X and player O
-
-The player is prompted to input an integer in the range 1-9 inclusive.
-The board is indexed as such:
+* A console based implementation of Tic-Tac-Toe
+* The game alternates between player 'X' and player 'Y'
+* Once a Three-In-A-Row is detected, the board is cleared and another game is initiated
+* The board position indexes are as such: 
 #####
 
 #123#
@@ -16,5 +15,3 @@ The board is indexed as such:
 #789#
 
 #####
-
-Once a 3-in-a-row is detected, the game will declare the winner and clear the board, beginning another game.
